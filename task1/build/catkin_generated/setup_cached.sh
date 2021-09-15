@@ -11,5 +11,6 @@ export CMAKE_PREFIX_PATH="/home/ahmedsalah/Desktop/ARL/ARL/task1/devel:$CMAKE_PR
 export LD_LIBRARY_PATH="/home/ahmedsalah/Desktop/ARL/ARL/task1/devel/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/home/ahmedsalah/Desktop/ARL/ARL/task1/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/ahmedsalah/Desktop/ARL/ARL/task1/build'
+export PYTHONPATH="/home/ahmedsalah/Desktop/ARL/ARL/task1/devel/lib/python3/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES='/home/ahmedsalah/Desktop/ARL/ARL/task1/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/ahmedsalah/Desktop/ARL/ARL/task1/src:$ROS_PACKAGE_PATH"

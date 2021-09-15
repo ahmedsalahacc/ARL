@@ -349,6 +349,162 @@ std_msgs_generate_messages_cpp/fast:
 	$(MAKE) -f exercise_one/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make exercise_one/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
 .PHONY : std_msgs_generate_messages_cpp/fast
 
+#=============================================================================
+# Target rules for targets named exercise_three_generate_messages
+
+# Build rule for target.
+exercise_three_generate_messages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_generate_messages
+.PHONY : exercise_three_generate_messages
+
+# fast build rule for target.
+exercise_three_generate_messages/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_generate_messages.dir/build.make exercise_three/CMakeFiles/exercise_three_generate_messages.dir/build
+.PHONY : exercise_three_generate_messages/fast
+
+#=============================================================================
+# Target rules for targets named _exercise_three_generate_messages_check_deps_UserInfo
+
+# Build rule for target.
+_exercise_three_generate_messages_check_deps_UserInfo: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _exercise_three_generate_messages_check_deps_UserInfo
+.PHONY : _exercise_three_generate_messages_check_deps_UserInfo
+
+# fast build rule for target.
+_exercise_three_generate_messages_check_deps_UserInfo/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/_exercise_three_generate_messages_check_deps_UserInfo.dir/build.make exercise_three/CMakeFiles/_exercise_three_generate_messages_check_deps_UserInfo.dir/build
+.PHONY : _exercise_three_generate_messages_check_deps_UserInfo/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_generate_messages_eus
+
+# Build rule for target.
+exercise_three_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_generate_messages_eus
+.PHONY : exercise_three_generate_messages_eus
+
+# fast build rule for target.
+exercise_three_generate_messages_eus/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_generate_messages_eus.dir/build.make exercise_three/CMakeFiles/exercise_three_generate_messages_eus.dir/build
+.PHONY : exercise_three_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_genpy
+
+# Build rule for target.
+exercise_three_genpy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_genpy
+.PHONY : exercise_three_genpy
+
+# fast build rule for target.
+exercise_three_genpy/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_genpy.dir/build.make exercise_three/CMakeFiles/exercise_three_genpy.dir/build
+.PHONY : exercise_three_genpy/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_generate_messages_cpp
+
+# Build rule for target.
+exercise_three_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_generate_messages_cpp
+.PHONY : exercise_three_generate_messages_cpp
+
+# fast build rule for target.
+exercise_three_generate_messages_cpp/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_generate_messages_cpp.dir/build.make exercise_three/CMakeFiles/exercise_three_generate_messages_cpp.dir/build
+.PHONY : exercise_three_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_geneus
+
+# Build rule for target.
+exercise_three_geneus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_geneus
+.PHONY : exercise_three_geneus
+
+# fast build rule for target.
+exercise_three_geneus/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_geneus.dir/build.make exercise_three/CMakeFiles/exercise_three_geneus.dir/build
+.PHONY : exercise_three_geneus/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_genlisp
+
+# Build rule for target.
+exercise_three_genlisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_genlisp
+.PHONY : exercise_three_genlisp
+
+# fast build rule for target.
+exercise_three_genlisp/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_genlisp.dir/build.make exercise_three/CMakeFiles/exercise_three_genlisp.dir/build
+.PHONY : exercise_three_genlisp/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_generate_messages_py
+
+# Build rule for target.
+exercise_three_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_generate_messages_py
+.PHONY : exercise_three_generate_messages_py
+
+# fast build rule for target.
+exercise_three_generate_messages_py/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_generate_messages_py.dir/build.make exercise_three/CMakeFiles/exercise_three_generate_messages_py.dir/build
+.PHONY : exercise_three_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_generate_messages_lisp
+
+# Build rule for target.
+exercise_three_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_generate_messages_lisp
+.PHONY : exercise_three_generate_messages_lisp
+
+# fast build rule for target.
+exercise_three_generate_messages_lisp/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_generate_messages_lisp.dir/build.make exercise_three/CMakeFiles/exercise_three_generate_messages_lisp.dir/build
+.PHONY : exercise_three_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_gencpp
+
+# Build rule for target.
+exercise_three_gencpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_gencpp
+.PHONY : exercise_three_gencpp
+
+# fast build rule for target.
+exercise_three_gencpp/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_gencpp.dir/build.make exercise_three/CMakeFiles/exercise_three_gencpp.dir/build
+.PHONY : exercise_three_gencpp/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_generate_messages_nodejs
+
+# Build rule for target.
+exercise_three_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_generate_messages_nodejs
+.PHONY : exercise_three_generate_messages_nodejs
+
+# fast build rule for target.
+exercise_three_generate_messages_nodejs/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_generate_messages_nodejs.dir/build.make exercise_three/CMakeFiles/exercise_three_generate_messages_nodejs.dir/build
+.PHONY : exercise_three_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named exercise_three_gennodejs
+
+# Build rule for target.
+exercise_three_gennodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exercise_three_gennodejs
+.PHONY : exercise_three_gennodejs
+
+# fast build rule for target.
+exercise_three_gennodejs/fast:
+	$(MAKE) -f exercise_three/CMakeFiles/exercise_three_gennodejs.dir/build.make exercise_three/CMakeFiles/exercise_three_gennodejs.dir/build
+.PHONY : exercise_three_gennodejs/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -376,6 +532,18 @@ help:
 	@echo "... std_msgs_generate_messages_lisp"
 	@echo "... std_msgs_generate_messages_eus"
 	@echo "... std_msgs_generate_messages_cpp"
+	@echo "... exercise_three_generate_messages"
+	@echo "... _exercise_three_generate_messages_check_deps_UserInfo"
+	@echo "... exercise_three_generate_messages_eus"
+	@echo "... exercise_three_genpy"
+	@echo "... exercise_three_generate_messages_cpp"
+	@echo "... exercise_three_geneus"
+	@echo "... exercise_three_genlisp"
+	@echo "... exercise_three_generate_messages_py"
+	@echo "... exercise_three_generate_messages_lisp"
+	@echo "... exercise_three_gencpp"
+	@echo "... exercise_three_generate_messages_nodejs"
+	@echo "... exercise_three_gennodejs"
 .PHONY : help
 
 

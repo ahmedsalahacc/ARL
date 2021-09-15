@@ -1,0 +1,8 @@
+prefix=/home/ahmedsalah/Desktop/ARL/ARL/task1/devel
+
+Name: exercise_three
+Description: Description of exercise_three
+Version: 0.0.0
+Cflags: -I/home/ahmedsalah/Desktop/ARL/ARL/task1/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
