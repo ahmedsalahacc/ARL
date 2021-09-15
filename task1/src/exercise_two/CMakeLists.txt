@@ -108,6 +108,11 @@ catkin_package(
 #  DEPENDS system_lib
 )
 
+catkin_install_python(PROGRAMS scripts/data_processing_node.py  scripts/user_info_driver_node.py
+	DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)
+
+
 ###########
 ## Build ##
 ###########

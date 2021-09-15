@@ -392,6 +392,12 @@ exercise_one_BINARY_DIR:STATIC=/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exer
 exercise_one_SOURCE_DIR:STATIC=/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_one
 
 //Value Computed by CMake
+exercise_two_BINARY_DIR:STATIC=/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_two
+
+//Value Computed by CMake
+exercise_two_SOURCE_DIR:STATIC=/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_two
+
+//Value Computed by CMake
 gmock_BINARY_DIR:STATIC=/home/ahmedsalah/Desktop/ARL/ARL/task1/build/gtest/googlemock
 
 //Dependencies for the target
@@ -606,7 +612,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=5
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

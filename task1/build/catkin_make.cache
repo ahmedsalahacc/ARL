@@ -1,2 +1,2 @@
-exercise_one
+exercise_one:exercise_two
 -DCATKIN_DEVEL_PREFIX=/home/ahmedsalah/Desktop/ARL/ARL/task1/devel -DCMAKE_INSTALL_PREFIX=/home/ahmedsalah/Desktop/ARL/ARL/task1/install -G Unix Makefiles

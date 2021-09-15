@@ -55,12 +55,14 @@ CMAKE_BINARY_DIR = /home/ahmedsalah/Desktop/ARL/ARL/task1/build
 # The main recursive "all" target.
 all: gtest/all
 all: exercise_one/all
+all: exercise_two/all
 
 .PHONY : all
 
 # The main recursive "preinstall" target.
 preinstall: gtest/preinstall
 preinstall: exercise_one/preinstall
+preinstall: exercise_two/preinstall
 
 .PHONY : preinstall
 
@@ -72,6 +74,7 @@ clean: CMakeFiles/tests.dir/clean
 clean: CMakeFiles/download_extra_data.dir/clean
 clean: gtest/clean
 clean: exercise_one/clean
+clean: exercise_two/clean
 
 .PHONY : clean
 
@@ -96,6 +99,24 @@ exercise_one/clean: exercise_one/CMakeFiles/std_msgs_generate_messages_eus.dir/c
 exercise_one/clean: exercise_one/CMakeFiles/std_msgs_generate_messages_cpp.dir/clean
 
 .PHONY : exercise_one/clean
+
+#=============================================================================
+# Directory level rules for directory exercise_two
+
+# Recursive "all" directory target.
+exercise_two/all:
+
+.PHONY : exercise_two/all
+
+# Recursive "preinstall" directory target.
+exercise_two/preinstall:
+
+.PHONY : exercise_two/preinstall
+
+# Recursive "clean" directory target.
+exercise_two/clean:
+
+.PHONY : exercise_two/clean
 
 #=============================================================================
 # Directory level rules for directory gtest

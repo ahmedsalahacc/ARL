@@ -47,3 +47,10 @@
 /home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_one/CMakeFiles/list_install_components.dir
 /home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_one/CMakeFiles/rebuild_cache.dir
 /home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_one/CMakeFiles/std_msgs_generate_messages_cpp.dir
+/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_two/CMakeFiles/install/strip.dir
+/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_two/CMakeFiles/install/local.dir
+/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_two/CMakeFiles/install.dir
+/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_two/CMakeFiles/list_install_components.dir
+/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_two/CMakeFiles/rebuild_cache.dir
+/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_two/CMakeFiles/edit_cache.dir
+/home/ahmedsalah/Desktop/ARL/ARL/task1/build/exercise_two/CMakeFiles/test.dir

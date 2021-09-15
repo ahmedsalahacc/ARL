@@ -15,11 +15,17 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin_generated/order_packages.cmake"
   "exercise_one/catkin_generated/ordered_paths.cmake"
   "exercise_one/catkin_generated/package.cmake"
+  "exercise_two/catkin_generated/ordered_paths.cmake"
+  "exercise_two/catkin_generated/package.cmake"
   "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/CMakeLists.txt"
   "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_one/CMakeLists.txt"
   "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_one/package.xml"
   "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_one/scripts/data_processing_node.py"
   "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_one/scripts/user_info_driver_node.py"
+  "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_two/CMakeLists.txt"
+  "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_two/package.xml"
+  "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_two/scripts/data_processing_node.py"
+  "/home/ahmedsalah/Desktop/ARL/ARL/task1/src/exercise_two/scripts/user_info_driver_node.py"
   "/opt/ros/noetic/share/catkin/cmake/all.cmake"
   "/opt/ros/noetic/share/catkin/cmake/assert.cmake"
   "/opt/ros/noetic/share/catkin/cmake/atomic_configure_file.cmake"
@@ -171,6 +177,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "exercise_one/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "exercise_two/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
